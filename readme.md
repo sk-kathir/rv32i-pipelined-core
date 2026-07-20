@@ -25,5 +25,4 @@ To design and simulate a 32-bit RV32I processor with a 5-stage pipeline:
 - netlistsvg
 
 ## Project Status
-
-Planned.
+.
